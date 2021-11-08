@@ -2,10 +2,10 @@ const swaggerAutogen = require('swagger-autogen')();
 
 const doc = {
   info: {
-    title: 'Xuan Hung API',
+    title: 'Thanh Duc API',
     description: 'Description',
   },
-  host: 'hw3-restful-api.herokuapp.com',
+  host: 'nguenduc071120.herokuapp.com',
   // host: 'localhost:4000',
   schemes: ['https', 'http'],
 };
